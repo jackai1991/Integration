@@ -1,0 +1,4 @@
+feat: connect frontend to smart contract
+feat: call contract functions from UI
+
+fix: incorrect contract address mapping
